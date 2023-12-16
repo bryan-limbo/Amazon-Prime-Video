@@ -4,7 +4,7 @@ An interactive dashboard analyzing TV shows and movies on Amazon Prime until mid
 
 ## Data
 
-The data is from [Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows). The license is under a public domain so there is no [copyright](https://creativecommons.org/publicdomain/zero/1.0/).
+The data is from [Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows). The [license](https://creativecommons.org/publicdomain/zero/1.0/) is under a public domain so there is no copyright.
 
 ## Tools
 
